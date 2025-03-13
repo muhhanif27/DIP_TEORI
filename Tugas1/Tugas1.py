@@ -9,7 +9,7 @@ nltk.download('vader_lexicon')
 sia = SentimentIntensityAnalyzer()
 
 # Konfigurasi API YouTube
-API_KEY = "AIzaSyAJQ7Sph0crKZWTdsgASKrx0yhc8E9nBHk"  # Ganti dengan API Key kamu
+API_KEY = "_api_key"  # Ganti dengan API Key kamu
 VIDEO_ID = "NYH6Oa4PXlY"  # Ganti dengan ID video YouTube yang diinginkan
 
 # Koneksi ke MongoDB (ganti connection string jika pakai MongoDB Atlas)
